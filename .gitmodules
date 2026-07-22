@@ -1,6 +1,6 @@
 [submodule "aws-lc-sys/aws-lc"]
 	path = aws-lc-sys/aws-lc
-	url = https://github.com/aws/aws-lc.git
+	url = https://github.com/JustRustThings/aws-lc.git
 	branch = main
 [submodule "aws-lc-fips-sys/aws-lc"]
 	path = aws-lc-fips-sys/aws-lc
